@@ -1,0 +1,2 @@
+# MergePrice
+Merge some price 
